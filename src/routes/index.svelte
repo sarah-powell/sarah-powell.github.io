@@ -1,2 +1,20 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import "../app.css";
+</script>
+
+<svelte:head>
+    <title>Sarah's Blog</title>
+</svelte:head>
+
+<div class="content">
+    Main content well
+</div>
+
+<style>
+    
+    .content {
+        width: 300px;
+        background-color: pink;
+    }
+        
+</style>
