@@ -12,7 +12,6 @@
         padding: 8px;
         color: white;
         height: 30px;
-        width: 100%;
         
         display: flex;
         align-items: center;
