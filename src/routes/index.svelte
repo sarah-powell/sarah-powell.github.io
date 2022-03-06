@@ -12,9 +12,6 @@
 
 <style>
     
-    .content {
-        width: 300px;
-        background-color: pink;
-    }
+    
         
 </style>
